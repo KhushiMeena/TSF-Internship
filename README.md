@@ -9,4 +9,4 @@ Task 4- Perform Exploratory Data Analysis on given sample set-Terrorism, to find
 
 Task 5- Perform Exploratory Data Analysis on given sample set-Sports(IPL), to find the best performing teams and players, also to find the factors contributing in the win or loss of a match.
 
-Task 6- Using Decision Tree Algorithm
+Task 6- Create and Visualise a Decision Tree Classifier using Decision Tree Algorithm.
